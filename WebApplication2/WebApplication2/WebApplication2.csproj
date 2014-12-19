@@ -152,8 +152,9 @@
     <Content Include="Account\Register.aspx" />
     <Content Include="Account\RegisterExternalLogin.aspx" />
     <Content Include="Contact.aspx" />
-    <Content Include="Content\bootstrap.css" />
-    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Images\jumbotron.jpg" />
+    <Content Include="Content\Images\jumbotron2.jpg" />
+    <Content Include="Content\Images\logo.png" />
     <Content Include="Content\Site.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="packages.config" />
@@ -161,6 +162,10 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="Account\Web.config" />
+    <Content Include="fonts\Prosto Sans Bold.otf" />
+    <Content Include="fonts\prosto_sans_bold-webfont.eot" />
+    <Content Include="fonts\prosto_sans_bold-webfont.ttf" />
+    <Content Include="fonts\prosto_sans_bold-webfont.woff" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />

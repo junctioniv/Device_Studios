@@ -2,7 +2,21 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
-<div id="header-wrapper">
+<section id="introduction">
+            <header>
+            <p>We are</p>
+            <h1>DEVICE</h1>
+            </header>
+        </section>
+        <section id="navigationbar"></section>
+        <section id="missionstatement">
+            <h1>Pioneering Creativity.</h1>
+            <p><b>DEVICE</b> is a digital design studio located in Orlando, Fl
+            <br></br>specializing in print, web and mobile applications.</p>
+        </section>
+      </div>
+
+<%--<div id="header-wrapper">
 	<div id="header" class="container">
 		<div id="menu">
 			<ul>
@@ -111,6 +125,6 @@
 		<li><a href="#" class="icon icon-rss"><span>Pinterest</span></a></li>
 	</ul>
      <p&copy; <%: DateTime.Now.Year %>  Sitename.com. All rights reserved. | Photos by <a href="http://fotogrph.com/">Fotogrph</a> | Design by <a href="http://www.freecsstemplates.org/" rel="nofollow">FreeCSSTemplates.org</a>.</p>
-</div>
+</div>--%>
 
 </asp:Content>
